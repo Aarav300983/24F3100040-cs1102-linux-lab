@@ -1,1 +1,2 @@
-# 24F3100040-cs1102-linux-lab
+# About Me
+Hello! I am Aarav300983, and this is my GitHub repository for the CS1102 Linux Lab.
